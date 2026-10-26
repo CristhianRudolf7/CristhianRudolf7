@@ -1,21 +1,21 @@
-# Hola, soy Cristhian Rudolf Egoavil Huaman
+# Hi, I’m Cristhian Rudolf Egoavil Huaman
 
 **AI engineer | Agents | GCP | Rust**  
-Huancayo, Perú · Universidad Nacional del Centro del Perú
+Huancayo, Peru · Universidad Nacional del Centro del Perú
 
-Desarrollo asistentes de inteligencia artificial y exploro cómo combinar herramientas, memoria y coordinación de agentes para resolver tareas reales. Comparto proyectos e investigación sobre sistemas multiagente, automatización, visión por computadora y desarrollo de software.
+I build AI assistants and explore how to combine tools, memory, and agent coordination to solve real-world tasks. I share projects and research on multi-agent systems, automation, computer vision, and software development.
 
-## Proyectos e investigación
+## Projects and research
 
-- **[Fénix](https://github.com/CristhianRudolf7/fenix):** asistente de IA de propósito general desarrollado en Rust, con memoria, herramientas, gestión de proyectos y subagentes. Mi trabajo reciente también explora la interacción con el navegador y la creación y edición de documentos.
-- **[Lengua de señas peruana](https://github.com/CristhianRudolf7/lsp-estatico):** aplicación web y Android para reconocer letras estáticas mediante MediaPipe y Extra Trees, convertirlas en texto y reproducirlas por voz. [Probar la web](https://senas.crehlabs.com).
-- **[SAGE-CREH](https://github.com/CristhianRudolf7/sage-creh):** investigación reproducible sobre coordinación de subagentes, delegación adaptativa y selección de skills, con código, datos y artículos en español e inglés.
-- **[Gin con Go](https://github.com/CristhianRudolf7/gin):** recorrido práctico para construir APIs con validación, seguridad, PostgreSQL, pruebas, observabilidad y despliegue.
+- **[Fénix](https://github.com/CristhianRudolf7/fenix):** a general-purpose AI assistant built in Rust, with memory, tools, project management, and subagents. My recent work also explores browser interaction and document creation and editing.
+- **[Peruvian Sign Language](https://github.com/CristhianRudolf7/lsp-estatico):** a web and Android application that recognizes static letters using MediaPipe and Extra Trees, converts them to text, and reads them aloud. [Try the web app](https://senas.crehlabs.com).
+- **[SAGE-CREH](https://github.com/CristhianRudolf7/sage-creh):** reproducible research on subagent coordination, adaptive delegation, and skill selection, with code, data, and papers in Spanish and English.
+- **[Gin with Go](https://github.com/CristhianRudolf7/gin):** a practical guide to building APIs with validation, security, PostgreSQL, testing, observability, and deployment.
 
-## En qué me enfoco
+## My focus
 
-Agentes de IA y asistentes personales · Rust · Google Cloud Platform · Memoria y contexto · Sistemas multiagente · Automatización · Machine learning y visión por computadora · APIs con Go
+AI agents and personal assistants · Rust · Google Cloud Platform · Memory and context · Multi-agent systems · Automation · Machine learning and computer vision · APIs with Go
 
-## Encuéntrame
+## Find me
 
 [LinkedIn](https://www.linkedin.com/in/cristhian-rudolf-egoavil-huaman/) · [CREH Labs](https://crehlabs.com)
