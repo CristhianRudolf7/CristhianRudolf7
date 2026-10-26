@@ -1,7 +1,7 @@
 # Hola, soy Cristhian Rudolf Egoavil Huaman
 
 **AI engineer | Agents | GCP | Rust**  
-Lima, Perú · Universidad Nacional del Centro del Perú
+Huancayo, Perú · Universidad Nacional del Centro del Perú
 
 Desarrollo asistentes de inteligencia artificial y exploro cómo combinar herramientas, memoria y coordinación de agentes para resolver tareas reales. Comparto proyectos e investigación sobre sistemas multiagente, automatización, visión por computadora y desarrollo de software.
 
